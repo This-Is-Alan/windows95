@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #9877BC;
+	color: darkcyan;
+}
+
+p{
+	color: blue;
+	font-family: "Gill Sans";
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.box-1 {
+	background-color: aqua;
+	border: 3px solid black;
+}
